@@ -2,6 +2,10 @@ testing kdiff3
 
 and lots of other things
 
-it works on a line by line basis
+it works, on a line by line basis
 
 really fun
+
+
+
+this is a seperate branch 
